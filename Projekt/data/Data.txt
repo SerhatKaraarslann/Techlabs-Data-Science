@@ -1,0 +1,45 @@
+DATEN
+
+1- schulen_ms.csv
+
+- Author : Stadt Münsteret
+- Source : https://offenedaten.stadt-muenster.de/dataset/schulen
+- Description : This dataset contains information about various schools in Münster, including their names, types, addresses, and other relevant details.
+- Angepasst : 2020-10-23
+
+
+2 - education_deu.csv
+
+- Author : World Bank
+- Source : https://data.humdata.org/dataset/world-bank-education-indicators-for-germany/resource/9168f0b9-4fa5-4ca1-b6af-a1241a6f228f
+- Description : This dataset contains various World Bank education indicators for Germany, covering metrics such as enrollment, educational attainment, teacher statistics, and financing over different time periods.
+
+3 - dem_data_deu.csv
+
+ - Author : UNESCO 
+ - Source	https://data.humdata.org/dataset/unesco-data-for-germany/resource/447a7af8-9aca-44dc-ab1e-f1483a2db22d
+ - Description : This dataset contains internationally comparable statistical indicators for Germany from the UNESCO Institute for Statistics (UIS), primarily focusing on education, science, culture, and communication.
+
+4 - Schulstatistik
+    - Author : Stadt Münster
+    - Source : https://opendata.stadt-muenster.de/dataset/schulstatistik-m%C3%BCnster-schuljahr-20102011-bis-schuljahr-20212022
+    - Description : The dataset serves to quantitatively present the school situation in Münster. It provides the statistical basis for school planning, student forecasting, and the financial allocation for school
+
+5 - OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_FIN_INDIC_SHARE_EDU_GOV,+..ISCED11_1T8+ISCED11_1T4+ISCED11_5T8.S13..._Z...csv
+    - Author : OECD
+    - Source : https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EAG_UOE_FIN%40DF_UOE_FIN_INDIC_SHARE_EDU_GOV&df[ag]=OECD.EDU.IMEP&dq=..ISCED11_1T8%2BISCED11_1T4%2BISCED11_5T8.S13..._Z..&pd=2015%2C2023&to[TIME_PERIOD]=true&vw=ov
+    - Description : This dataset displays the share of total education expenditure funded by government sources across various OECD countries. It covers different education levels (Primary to Tertiary, ISCED 1-8) and is used to compare the role of public financing in education internationally.
+    - Angepasst : Data covers the period from 2015 to 2023.
+
+
+6 - OECD.EDU.IMEP,DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_GENDER,+DEU.ISCED11_3+ISCED11_34+ISCED11_35+ISCED11_4+ISCED11_5+ISCED11_6+ISCED11_7+ISCED11_8.GRAD.....A...._T..F+M.
+    - Author : OECD
+    - Source : https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EAG_UOE_NON_FIN_STUD%40DF_UOE_NF_SHARE_GENDER&df[ag]=OECD.EDU.IMEP&dq=DEU.ISCED11_3%2BISCED11_34%2BISCED11_35%2BISCED11_4%2BISCED11_5%2BISCED11_6%2BISCED11_7%2BISCED11_8.GRAD.....A...._T..F%2BM.&pd=2023%2C2023&to[TIME_PERIOD]=false&vw=tb
+    - Description : Dieser Datensatz zeigt den Anteil der Absolventen (Graduates) nach Geschlecht (weiblich vs. männlich) für Deutschland in verschiedenen Bildungsstufen. Er deckt die Sekundarstufe II bis zur Tertiärbildung (ISCED 3 bis 8) ab.
+    - Angepasst : Data for the year 2023.
+
+7 - Einkommen
+    - Author : Statistisches Bundesamt (Destatis)
+    - Source : https://www.statistikportal.de/de/vgrdl/ergebnisse-kreisebene/einkommen-kreise#alle-ergebnisse
+    - Description : This dataset provides information on income levels across different regions in Germany. It includes data on average income, income distribution, and other relevant economic indicators at the district level.
+    - Angepasst : Reihe 2 Band 2 (2000 bis 2022), Reihe 2 Band 3 (1995 bis 2022)
