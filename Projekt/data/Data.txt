@@ -2,7 +2,7 @@ DATEN
 
 1- schulen_ms.csv
 
-- Author : Stadt Münsteret
+- Author : Stadt Münster
 - Source : https://offenedaten.stadt-muenster.de/dataset/schulen
 - Description : This dataset contains information about various schools in Münster, including their names, types, addresses, and other relevant details.
 - Angepasst : 2020-10-23
