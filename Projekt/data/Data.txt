@@ -25,14 +25,14 @@ DATEN
     - Source : https://opendata.stadt-muenster.de/dataset/schulstatistik-m%C3%BCnster-schuljahr-20102011-bis-schuljahr-20212022
     - Description : The dataset serves to quantitatively present the school situation in Münster. It provides the statistical basis for school planning, student forecasting, and the financial allocation for school
 
-5 - OECD.EDU.IMEP,DSD_EAG_UOE_FIN@DF_UOE_FIN_INDIC_SHARE_EDU_GOV,+..ISCED11_1T8+ISCED11_1T4+ISCED11_5T8.S13..._Z...csv
+5 - government_education_expenditure.csv
     - Author : OECD
     - Source : https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EAG_UOE_FIN%40DF_UOE_FIN_INDIC_SHARE_EDU_GOV&df[ag]=OECD.EDU.IMEP&dq=..ISCED11_1T8%2BISCED11_1T4%2BISCED11_5T8.S13..._Z..&pd=2015%2C2023&to[TIME_PERIOD]=true&vw=ov
     - Description : This dataset displays the share of total education expenditure funded by government sources across various OECD countries. It covers different education levels (Primary to Tertiary, ISCED 1-8) and is used to compare the role of public financing in education internationally.
     - Angepasst : Data covers the period from 2015 to 2023.
 
 
-6 - OECD.EDU.IMEP,DSD_EAG_UOE_NON_FIN_STUD@DF_UOE_NF_SHARE_GENDER,+DEU.ISCED11_3+ISCED11_34+ISCED11_35+ISCED11_4+ISCED11_5+ISCED11_6+ISCED11_7+ISCED11_8.GRAD.....A...._T..F+M.
+6 - graduates_by_gender.csv
     - Author : OECD
     - Source : https://data-explorer.oecd.org/vis?lc=en&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_EAG_UOE_NON_FIN_STUD%40DF_UOE_NF_SHARE_GENDER&df[ag]=OECD.EDU.IMEP&dq=DEU.ISCED11_3%2BISCED11_34%2BISCED11_35%2BISCED11_4%2BISCED11_5%2BISCED11_6%2BISCED11_7%2BISCED11_8.GRAD.....A...._T..F%2BM.&pd=2023%2C2023&to[TIME_PERIOD]=false&vw=tb
     - Description : Dieser Datensatz zeigt den Anteil der Absolventen (Graduates) nach Geschlecht (weiblich vs. männlich) für Deutschland in verschiedenen Bildungsstufen. Er deckt die Sekundarstufe II bis zur Tertiärbildung (ISCED 3 bis 8) ab.
